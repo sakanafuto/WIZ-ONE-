@@ -1,9 +1,12 @@
 ## WIZ*ONEのための画像検索LINEbot
+<br>
+<img width="800px" src="https://user-images.githubusercontent.com/61341108/117563840-8cba0c80-b0e3-11eb-9e0f-1b6247be74c5.png">
 
 LINEのbotを作ってみたかった＆IZ*ONEが解散して1週間過ぎたけど傷が癒えないため自分用に作成。
 メンバーを呼ぶと可愛い写真が返ってくる！
 無料枠なので100req/1日しか無いけど、一応誰でも使用可。以下QRコードより友だち追加で出来ます。
-![183mziun](https://user-images.githubusercontent.com/61341108/117563566-d570c600-b0e1-11eb-806b-93e74580eb90.png)
+<br>
+<img width="320px" src="https://user-images.githubusercontent.com/61341108/117563566-d570c600-b0e1-11eb-806b-93e74580eb90.png">
 
 wiz*one.gs(js)にGASのScriptsが載ってます。
 
