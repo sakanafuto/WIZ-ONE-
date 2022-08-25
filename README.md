@@ -1,10 +1,12 @@
-# WIZ*ONEのためのLINEbot
+# IZ*ONE好きのためのLINE Bot
 
-<img width="400px" src="https://user-images.githubusercontent.com/61341108/117563840-8cba0c80-b0e3-11eb-9e0f-1b6247be74c5.png">
+<img width="" src="https://user-images.githubusercontent.com/61341108/117563840-8cba0c80-b0e3-11eb-9e0f-1b6247be74c5.png">
 
-LINEbotのテストアプリ。<br>
-メンバーを呼ぶと天使たちの写真が返ってきます。<br>
-``wiz*one.js``はGASスクリプトです。
+LINE Botのテストアプリです。メンバーを呼ぶと天使たちの写真が返ってきます👼<br>
+``wiz*one.js``はGASスクリプトです。特に難しい実装はしていません。
+
+## Getting Started
+停止中。
 
 ## Built With
 - [GCP](https://console.cloud.google.com/) Custom Search API
